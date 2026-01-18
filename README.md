@@ -18,9 +18,9 @@ In this study, an **engineering design** aimed at analyzing personality traits f
 
 
 
-
-<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/79532d33-ee4a-4b97-bb1a-46ab1e9dcde9" />
-
+<p align="center">
+<img width="600" height="640" alt="image" src="https://github.com/user-attachments/assets/b152bd16-330e-4030-968f-cebfe7444af1" />
+</p>
 ---
 
 ## System Architecture
