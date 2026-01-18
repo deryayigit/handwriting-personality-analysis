@@ -19,11 +19,6 @@ In this study, an **engineering design** aimed at analyzing personality traits f
 <img width="1034" height="431" alt="image" src="https://github.com/user-attachments/assets/7b78c801-cb2f-4c1d-b54c-3960c719c208" />
 
 
-<p align="center">
-<img width="517" height="320" alt="image" src="https://github.com/user-attachments/assets/b152bd16-330e-4030-968f-cebfe7444af1" />
-</p>
-
-
 ## System Architecture
 
 The system is designed in a modular and extensible manner:
