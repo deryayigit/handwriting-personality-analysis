@@ -15,8 +15,9 @@ The relationship between handwriting and personality analysis is examined within
 
 In this study, an **engineering design** aimed at analyzing personality traits from individuals’ handwriting samples has been implemented using deep learning methods. Instead of classical graphological feature extraction techniques, the **Vision Transformer (ViT)** architecture has been preferred, and the processes of feature extraction and classification have been modeled using an end-to-end learning approach. Personality prediction is performed based on the **Big Five Personality Model (Big Five Personality Traits – OCEAN)**.
 
+<p align="center">
 <img width="792" height="480" alt="image" src="https://github.com/user-attachments/assets/0b227c88-fb1f-401d-8266-86a7fd97683f" />
-
+</p>
 
 ## System Architecture
 
