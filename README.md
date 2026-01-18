@@ -2,10 +2,6 @@
 
 Handwriting is a complex human behavior that goes beyond the mere transcription of text onto paper, containing various clues about an individual’s cognitive processes, motor skills, and psychological state. The traces formed from the moment the pen comes into contact with the paper are not simply the result of a physical movement, but rather the outward manifestation of a multilayered process directed by the brain. In this context, handwriting can be considered a unique biometric indicator that reflects an individual’s characteristic traits. Each person’s handwriting is distinctive; similar to fingerprints or DNA, it constitutes a form of biometric data that is specific to the individual. This dynamic structure may also contain variable information related to a person’s emotional state and inner condition. Therefore, handwriting is regarded not only as a means of identity verification, but also as a meaningful data source for character and personality analysis.
 
-The relationship between handwriting and personality analysis is examined within the scope of the science of **Graphology**. Graphology is a field of study that aims to derive inferences about an individual’s personality and character traits based on their handwriting. This approach has found applications in various disciplines such as forensic investigations, human resources processes, psychological counseling, and education.
-
-In this study, an **engineering design** aimed at analyzing personality traits from individuals’ handwriting samples has been implemented using deep learning methods. Instead of classical graphological feature extraction techniques, the **Vision Transformer (ViT)** architecture has been preferred, and the processes of feature extraction and classification have been modeled using an end-to-end learning approach. Personality prediction is performed based on the **Big Five Personality Model (Big Five Personality Traits – OCEAN)**.
-
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/fdf8604e-35aa-4b38-96ee-b0cce0d35e79"
@@ -15,7 +11,15 @@ In this study, an **engineering design** aimed at analyzing personality traits f
   />
 </p>
 
+The relationship between handwriting and personality analysis is examined within the scope of the science of **Graphology**. Graphology is a field of study that aims to derive inferences about an individual’s personality and character traits based on their handwriting. This approach has found applications in various disciplines such as forensic investigations, human resources processes, psychological counseling, and education.
 
+In this study, an **engineering design** aimed at analyzing personality traits from individuals’ handwriting samples has been implemented using deep learning methods. Instead of classical graphological feature extraction techniques, the **Vision Transformer (ViT)** architecture has been preferred, and the processes of feature extraction and classification have been modeled using an end-to-end learning approach. Personality prediction is performed based on the **Big Five Personality Model (Big Five Personality Traits – OCEAN)**.
+
+
+
+
+
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/79532d33-ee4a-4b97-bb1a-46ab1e9dcde9" />
 
 ---
 
