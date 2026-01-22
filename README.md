@@ -1,4 +1,4 @@
-# Handwriting-Based Personality Analysis using Vision Transformers
+# Handwriting-Based Personality Analysis using Vision Transformers (ViT)
 
 Handwriting is a complex human behavior that goes beyond the mere transcription of text onto paper, containing various clues about an individual’s cognitive processes, motor skills, and psychological state. The traces formed from the moment the pen comes into contact with the paper are not simply the result of a physical movement, but rather the outward manifestation of a multilayered process directed by the brain. In this context, handwriting can be considered a unique biometric indicator that reflects an individual’s characteristic traits. Each person’s handwriting is distinctive similar to fingerprints or DNA, it constitutes a form of biometric data that is specific to the individual. This dynamic structure may also contain variable information related to a person’s emotional state and inner condition. Therefore, handwriting is regarded not only as a means of identity verification, but also as a meaningful data source for character and personality analysis.
 
